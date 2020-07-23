@@ -1,0 +1,209 @@
+﻿@model DeckOfCards.ViewModels.DeckViewModel
+@{
+    ViewBag.Title = "Home Page";
+}
+<div class="row">
+    <center>
+        <button class="btn btn-primary button-style" data-bind="click:shuffleCards">Shuffle Cards</button>
+        <hr />
+
+        <h2>Drawn Cards</h2>
+        @*show draw button if there available*@
+
+        <!-- ko {if: drawnCards().length > 0} -->
+        <button class="btn btn-primary button-style" data-bind="click:drawCard, enable:canDrawCard()">Draw Card</button>
+        <br />
+        <br />
+
+        @*show list of drawn cards*@
+        <select list-group-item list-group-item-action multiple="multiple" Size="10" style="width:250px" data-bind='options: getDrawnCards(), optionsText: "Text", value:selectedCard'></select>
+
+        <hr />
+        <br />
+        <button class="btn btn-warning button-style" data-bind="click:withdrawCard">Withdraw Selected Card</button>
+
+        <br />
+        <br />
+        <button class="btn btn-danger button-style" data-bind="click:discardCard">Discard Selected Card</button>
+
+        <p>
+            <h3>Highest Ranked Card:</h3>
+            <h2 data-bind="text: getHighestCardRank()"></h2>
+        </p>
+        <!-- /ko -->
+        <!-- ko {if: drawnCards().length == 0} -->
+        <span>No Card Drawn</span>
+        <p>Please shuffle cards to draw</p>
+        <!-- /ko -->
+    </center>
+</div>
+@{
+    // seralizing backend view model
+    var jsModel = Newtonsoft.Json.JsonConvert.SerializeObject(Model);
+}
+
+@section  Scripts{
+    <script type="text/javascript">
+
+        $(document).ready(function ()
+        {
+
+            // card  model to keep txt and rank value
+            function cardModel(value, text) {
+                    this.Text = ko.observable(text);
+                    this.CardValue = value;
+            }
+
+            // model that keeps over all view model sturcture
+            // refcot: move view model logic to external js file
+            function Model() {
+                var self = this;
+
+               this.availableCards = ko.observableArray();
+               this.drawCardsTimes = ko.observable(5);
+               this.selectedCard = ko.observable();
+               this.drawnCards = ko.observableArray();
+               this.cardData = ko.observableArray();
+
+                // shuffle cards and draw 5 cards
+
+                this.shuffleCards = function () {
+
+                    //resetting available and drawn cards array
+                    this.initializeCards();
+
+                    // draw 5 cards at start
+                    this.drawCardsTimes(5);
+                    this.drawCard();
+
+                    // resetting variable to default 1 for next draw
+                    this.drawCardsTimes(1);
+                }
+
+                // initialize available cards and drawn cards
+                this.initializeCards = function () {
+
+                    this.availableCards.removeAll();
+                    this.drawnCards.removeAll();
+
+                    // reading cards from stored array
+                    var arrCards = this.cardData;
+
+                    // loading cards to obserable array
+                    $.each(arrCards, function (index, value) {
+                        var objCard = arrCards[index];
+                        var card = new cardModel(objCard.Value, objCard.Text);
+                        if (viewModel.availableCards != undefined) {
+                            viewModel.availableCards.push(card);
+                        }
+                    });
+
+                }
+
+                // draw card event
+                this.drawCard = function () {
+                        if (this.availableCards == undefined) { return;}
+
+                        // generate cards for given number of times
+                        for (var drawCount = this.drawCardsTimes(); drawCount > 0; drawCount--) {
+                            // calculate available cards number to generate random numbers
+
+                            var totalCards = this.availableCards().length;
+
+                            var nextCardNumber = getNextCardNumber(totalCards);
+
+                            var match = this.availableCards()[nextCardNumber];
+
+                            // clearing drawn cards by initializing object
+                            this.drawnCards.push(match);
+
+                            // removing card from available card list to stop genrating it on next click
+                            this.availableCards.remove(match);
+                        }
+                    };
+
+                // discard card event
+                this.discardCard = function () {
+
+                   if (this.selectedCard == undefined) { return; }
+
+                    var selectedCardValue = this.selectedCard().CardValue;
+                    // find selected card in drawn cards
+                    var match = ko.utils.arrayFirst(this.drawnCards(), function (item) {
+                            return item.CardValue == selectedCardValue;
+                       });
+                        // remove card from drawn cards array
+                        if (match != null)
+                        {
+                            this.drawnCards.remove(match);
+                        }
+                    }
+
+                // with card event
+                this.withdrawCard = function () {
+
+                    if (this.selectedCard == undefined) { return; }
+                    var selectedCardValue = this.selectedCard().CardValue;
+
+                    // find selected from drawn cards array
+                    var match = ko.utils.arrayFirst(this.drawnCards(), function (item) {
+                        return item.CardValue == selectedCardValue;
+                    });
+
+                    if (match != null) {
+                        // re-insert to available cards
+                        this.availableCards.push(match);
+                        // removing from drawn cards
+                        this.drawnCards.remove(match);
+                    }
+                }
+
+                 // function generates and returns random number between 0 - 51
+                function getNextCardNumber(maxValue) {
+                        return Math.floor(Math.random() * maxValue);
+                    };
+
+                // get list of drawn cards
+                this.getDrawnCards = ko.pureComputed(function () {
+                        return this.drawnCards;
+                    }, this);
+
+                // sort drawn cards by order of suit and value
+                this.sortDrawnCardsByRank = ko.pureComputed(function () {
+
+                    var sorted = this.drawnCards().sort(function (a, b) {
+
+                        return b.CardValue - a.CardValue;
+                    });
+
+                    this.drawnCards(sorted);
+                 }, this);
+
+                // find if card available to draw
+                this.canDrawCard = ko.pureComputed(function () {
+                    return this.availableCards().length > 0;
+                }, this);
+
+                // get hisghest ranked card
+                // order by poker suit and then value
+                this.getHighestCardRank = ko.pureComputed(function () {
+                    this.sortDrawnCardsByRank();
+                    if (this.drawnCards != undefined && this.drawnCards().length > 0) {
+                        return this.drawnCards()[0].Text();
+                    }
+                }, this);
+
+                };
+
+            // declaring view model
+            var viewModel = new Model();
+            var model = @Html.Raw(jsModel);
+
+            //  setting card data
+            viewModel.cardData = model.CardList;
+            viewModel.initializeCards();
+
+            ko.applyBindings(viewModel);
+            });
+    </script>
+}

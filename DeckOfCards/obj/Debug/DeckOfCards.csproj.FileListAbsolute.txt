@@ -1,0 +1,237 @@
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\DeckOfCards.dll.config
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\DeckOfCards.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\DeckOfCards.pdb
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\csc.exe
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\csc.exe.config
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\csc.rsp
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\csi.exe
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\csi.exe.config
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\csi.rsp
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\System.AppContext.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\System.Console.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\System.IO.Compression.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\System.Net.Http.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\System.Net.Sockets.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\System.ValueTuple.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\System.Xml.XPath.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\vbc.exe
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\vbc.exe.config
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\vbc.rsp
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\VBCSCompiler.exe
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\Antlr3.Runtime.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\Newtonsoft.Json.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\System.Web.Helpers.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\System.Web.Mvc.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\System.Web.Optimization.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\System.Web.Razor.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\System.Web.WebPages.Deployment.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\System.Web.WebPages.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\System.Web.WebPages.Razor.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\WebGrease.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\System.Web.Helpers.xml
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\System.Web.Mvc.xml
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\System.Web.Optimization.xml
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\System.Web.Razor.xml
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\System.Web.WebPages.xml
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\System.Web.WebPages.Deployment.xml
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\System.Web.WebPages.Razor.xml
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\Newtonsoft.Json.xml
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\Antlr3.Runtime.pdb
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\obj\Debug\DeckOfCards.csprojAssemblyReference.cache
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\obj\Debug\DeckOfCards.csproj.CoreCompileInputs.cache
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\obj\Debug\DeckOfCards.csproj.CopyComplete
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\obj\Debug\DeckOfCards.dll
+C:\Users\khurr\source\repos\DeckOfCards\DeckOfCards\obj\Debug\DeckOfCards.pdb
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\DeckOfCards.dll.config
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\DeckOfCards.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\DeckOfCards.pdb
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\csc.exe
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\csc.exe.config
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\csc.rsp
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\csi.exe
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\csi.exe.config
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\csi.rsp
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\System.AppContext.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\System.Console.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\System.IO.Compression.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\System.Net.Http.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\System.Net.Sockets.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\System.ValueTuple.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\System.Xml.XPath.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\vbc.exe
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\vbc.exe.config
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\vbc.rsp
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\VBCSCompiler.exe
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\Antlr3.Runtime.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\Newtonsoft.Json.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\System.Web.Helpers.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\System.Web.Mvc.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\System.Web.Optimization.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\System.Web.Razor.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\System.Web.WebPages.Deployment.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\System.Web.WebPages.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\System.Web.WebPages.Razor.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\WebGrease.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\System.Web.Helpers.xml
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\System.Web.Mvc.xml
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\System.Web.Optimization.xml
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\System.Web.Razor.xml
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\System.Web.WebPages.xml
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\System.Web.WebPages.Deployment.xml
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\System.Web.WebPages.Razor.xml
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\Newtonsoft.Json.xml
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\Antlr3.Runtime.pdb
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\obj\Debug\DeckOfCards.csprojAssemblyReference.cache
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\obj\Debug\DeckOfCards.csproj.CoreCompileInputs.cache
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\obj\Debug\DeckOfCards.csproj.CopyComplete
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\obj\Debug\DeckOfCards.dll
+C:\Users\khurr\source\repos\DeckOfCards - Copy (2)\DeckOfCards\obj\Debug\DeckOfCards.pdb
+P:\Dev\DeckOfCards\DeckOfCards\bin\DeckOfCards.dll.config
+P:\Dev\DeckOfCards\DeckOfCards\bin\DeckOfCards.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\DeckOfCards.pdb
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\csc.exe
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\csc.exe.config
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\csc.rsp
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\csi.exe
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\csi.exe.config
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\csi.rsp
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\Microsoft.CodeAnalysis.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\Microsoft.CSharp.Core.targets
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\Microsoft.Managed.Core.targets
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\Microsoft.VisualBasic.Core.targets
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\Microsoft.Win32.Primitives.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\System.AppContext.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\System.Collections.Immutable.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\System.Console.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\System.Diagnostics.StackTrace.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\System.Globalization.Calendars.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\System.IO.Compression.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\System.IO.Compression.ZipFile.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\System.IO.FileSystem.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\System.IO.FileSystem.Primitives.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\System.Net.Http.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\System.Net.Sockets.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\System.Reflection.Metadata.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\System.Security.Cryptography.Encoding.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\System.Security.Cryptography.Primitives.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\System.Text.Encoding.CodePages.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\System.Threading.Tasks.Extensions.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\System.ValueTuple.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\System.Xml.ReaderWriter.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\System.Xml.XmlDocument.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\System.Xml.XPath.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\System.Xml.XPath.XDocument.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\vbc.exe
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\vbc.exe.config
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\vbc.rsp
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\VBCSCompiler.exe
+P:\Dev\DeckOfCards\DeckOfCards\bin\roslyn\VBCSCompiler.exe.config
+P:\Dev\DeckOfCards\DeckOfCards\bin\Antlr3.Runtime.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\Microsoft.Web.Infrastructure.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\Newtonsoft.Json.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\System.Web.Helpers.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\System.Web.Mvc.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\System.Web.Optimization.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\System.Web.Razor.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\System.Web.WebPages.Deployment.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\System.Web.WebPages.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\System.Web.WebPages.Razor.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\WebGrease.dll
+P:\Dev\DeckOfCards\DeckOfCards\bin\System.Web.Helpers.xml
+P:\Dev\DeckOfCards\DeckOfCards\bin\System.Web.Mvc.xml
+P:\Dev\DeckOfCards\DeckOfCards\bin\System.Web.Optimization.xml
+P:\Dev\DeckOfCards\DeckOfCards\bin\System.Web.Razor.xml
+P:\Dev\DeckOfCards\DeckOfCards\bin\System.Web.WebPages.xml
+P:\Dev\DeckOfCards\DeckOfCards\bin\System.Web.WebPages.Deployment.xml
+P:\Dev\DeckOfCards\DeckOfCards\bin\System.Web.WebPages.Razor.xml
+P:\Dev\DeckOfCards\DeckOfCards\bin\Newtonsoft.Json.xml
+P:\Dev\DeckOfCards\DeckOfCards\bin\Antlr3.Runtime.pdb
+P:\Dev\DeckOfCards\DeckOfCards\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+P:\Dev\DeckOfCards\DeckOfCards\obj\Debug\DeckOfCards.csprojAssemblyReference.cache
+P:\Dev\DeckOfCards\DeckOfCards\obj\Debug\DeckOfCards.csproj.CoreCompileInputs.cache
+P:\Dev\DeckOfCards\DeckOfCards\obj\Debug\DeckOfCards.csproj.CopyComplete
+P:\Dev\DeckOfCards\DeckOfCards\obj\Debug\DeckOfCards.dll
+P:\Dev\DeckOfCards\DeckOfCards\obj\Debug\DeckOfCards.pdb
